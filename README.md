@@ -7,10 +7,10 @@
 
 
 ## Assignment 2-
-Task 1: Creating Arrays 
-Task 2: Array Indexing and Slicing
-Task 3: Mathematical Operations
-Task 4: Reshaping and Transposing
-Task 5: Boolean Masking and Filtering
-Task 6: Working with Built-in Functions
-Task 7: Generic
+- Task 1: Creating Arrays 
+- Task 2: Array Indexing and Slicing
+- Task 3: Mathematical Operations
+- Task 4: Reshaping and Transposing
+- Task 5: Boolean Masking and Filtering
+- Task 6: Working with Built-in Functions
+- Task 7: Generic
