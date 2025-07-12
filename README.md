@@ -17,10 +17,10 @@
 
 
 ## Assignment 3
-Task 1: Working with Series 
--Task 2: Creating and Inspecting DataFrames 
--Task 3: Data Selection and Filtering
--Task 4: Handling Missing Data 
--Task 5: Grouping and Aggregation
--Task 6: Reading and Writing Data
--Task 7: General 
+- Task 1: Working with Series 
+- Task 2: Creating and Inspecting DataFrames 
+- Task 3: Data Selection and Filtering
+- Task 4: Handling Missing Data 
+- Task 5: Grouping and Aggregation
+- Task 6: Reading and Writing Data
+- Task 7: General 
