@@ -17,7 +17,7 @@
 
 
 ## Assignment 3
--Task 1: Working with Series 
+Task 1: Working with Series 
 -Task 2: Creating and Inspecting DataFrames 
 -Task 3: Data Selection and Filtering
 -Task 4: Handling Missing Data 
