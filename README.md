@@ -23,4 +23,13 @@
 - Task 4: Handling Missing Data 
 - Task 5: Grouping and Aggregation
 - Task 6: Reading and Writing Data
-- Task 7: General 
+- Task 7: General
+
+  ## Assignment 4
+  - Task 1: Simple Linear Regression
+  - Task 2: Multiple Linear Regression
+  - Task 3: Feature Scaling and Normalization
+  - Task 4: Model Interpretation
+  - Task 5: Binary Classification with Logistic Regression
+  - Task 6: Threshold Tuning and Probability Interpretation
+  - Task 7: Multiclass Classification (Optional) 
