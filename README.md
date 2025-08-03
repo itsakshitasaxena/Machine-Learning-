@@ -32,4 +32,16 @@
  - Task 4: Model Interpretation
  - Task 5: Binary Classification with Logistic Regression
  - Task 6: Threshold Tuning and Probability Interpretation
- - Task 7: Multiclass Classification (Optional) 
+ - Task 7: Multiclass Classification (Optional)
+
+
+## Assignment 5
+**Part-I: Naive Bayes Classifier**
+- Task 1: Theory Questions
+- Task 2: Spam Detection using MultinomialNB
+- Task 3: GaussianNB with Iris or Wine Dataset
+
+**Part-II: Decision Trees**
+- Task 4: Conceptual Questions
+- Task 5: Decision Tree on Titanic Dataset
+- Task 6: Model Tuning
