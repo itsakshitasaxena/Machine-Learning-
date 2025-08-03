@@ -7,6 +7,7 @@
 
 
 ## Assignment 2
+**Part-I Numpy Questions**
 - Task 1: Creating Arrays 
 - Task 2: Array Indexing and Slicing
 - Task 3: Mathematical Operations
@@ -17,7 +18,7 @@
 
 
 ## Assignment 3
-**Part-I Numpy Questions**
+**Part-I Pandas Questions**
 - Task 1: Working with Series 
 - Task 2: Creating and Inspecting DataFrames 
 - Task 3: Data Selection and Filtering
