@@ -2,8 +2,8 @@
 
 ## Assignment 1
 
-- 1.Make a custom exception
-- 2.Read and write 2d array in csv format
+- 1. Make a custom exception
+- 2. Read and write 2d array in csv format
 
 
 ## Assignment 2
@@ -45,3 +45,9 @@
 - Task 4: Conceptual Questions
 - Task 5: Decision Tree on Titanic Dataset
 - Task 6: Model Tuning
+
+**Part-III: Ensemble Learning – Bagging, Boosting, Random Forest**
+- Task 7: Conceptual Questions
+- Task 8: Random Forest vs Decision Tree
+- Task 9: AdaBoost or Gradient Boosting
+  
