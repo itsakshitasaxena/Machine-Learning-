@@ -26,13 +26,20 @@
 - Task 7: General
 
  ## Assignment 4
+ **Part-I: Linear Regression**
  - Task 1: Simple Linear Regression
  - Task 2: Multiple Linear Regression
  - Task 3: Feature Scaling and Normalization
  - Task 4: Model Interpretation
- - Task 5: Binary Classification with Logistic Regression
- - Task 6: Threshold Tuning and Probability Interpretation
- - Task 7: Multiclass Classification (Optional)
+
+
+**Part-II: Logistic Regression**
+- Task 5: Binary Classification with Logistic Regression
+- Task 6: Threshold Tuning and Probability Interpretation
+- Task 7: Multiclass Classification (Optional)
+
+**Part-III: General Questions**
+- Objective: To strengthen conceptual understanding of the differences, use cases, and assumptions of linear vs. logistic regression. 
 
 
 ## Assignment 5
